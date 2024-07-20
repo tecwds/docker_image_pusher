@@ -1,1 +1,1 @@
-yidadaa/chatgpt-next-web
+tianminghui/openai-style-api
