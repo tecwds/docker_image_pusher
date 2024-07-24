@@ -1,1 +1,1 @@
-tianminghui/openai-style-api
+dinky/dinky
